@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I’m MD Aarif Idrasi
 
-<!--
-**MDAARIF-2003/MDAARIF-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Second-Year CSE Student | AI & ML Developer | Innovator
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I love building AI-driven solutions that solve real-world problems.  
+Currently, I’m working on **Vision Beyond Sight**, an AI-based assistive device for visually impaired individuals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💡 Passionate about AI, Machine Learning, Python, and Embedded Tech  
+- 🎯 Building a startup-focused project based on assistive intelligence  
+- 📚 Knowledge: C, Java, Python, Data Structures, OOP  
+- 🛠️ Currently exploring: TensorFlow, OpenCV, Real-time object detection  
+
+---
+
+## 🧠 Skills & Technologies
+- **Languages:** Python, Java, C  
+- **AI/ML:** TensorFlow, Keras, OpenCV  
+- **Tools:** VS Code, Jupyter Notebook  
+- **Version Control:** Git & GitHub  
+- **Interests:** AI/ML, IoT, Assistive Technology, Full-Stack Development  
+
+---
+
+## 🔭 Current Project
+### 🦾 Vision Beyond Sight  
+An AI-based system designed to:
+- Identify patterns in clothing  
+- Recognize textures & stripes  
+- Provide voice feedback  
+- Assist visually impaired users  
+
+*(Full project repository is private due to startup planning.)*
+
+---
+
+## 🏆 Achievements
+- 🥇 Winner – Avishkar 2024  
+- 🏆 Poster Presentation – Certificate of Excellence  
+- 🧠 Paper Presentation – DIGIFEST 2025  
+- 🛠️ Idea Challenge – QIL & AICTE Certifications  
+
+---
+
+## 📬 Connect With Me
+- 📧 Email: **rajakarma021@gmail.com**
+- 🔗 LinkedIn: *(share your link if you have)*  
+- 🌐 GitHub: **github.com/MDAARIF-2003**  
+
+---
+
+⭐ *Thanks for visiting! Always open to collaborations and learning new technologies!*
