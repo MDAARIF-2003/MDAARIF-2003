@@ -1,6 +1,6 @@
 # 👋 Hi, I’m MD Aarif Idrasi
 
-### 🎓 Second-Year CSE Student | AI & ML Developer | Innovator
+### 🎓 Third-Year CSE Student | AI & ML Developer | Innovator
 
 Welcome to my GitHub profile!  
 I love building AI-driven solutions that solve real-world problems.  
